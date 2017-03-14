@@ -1,0 +1,9 @@
+S junk files
+[Tt]humbs.db
+*.DS_Store
+
+hadoop*/
+os
+re
+sys
+
